@@ -68,13 +68,25 @@ The Random Forest model performed well and was able to predict employee attritio
      
 ## Conclusions
 * We can predict, with our model, whether an employee will stay with 84% accuracy
-* The best predictors of whether someone will stay are:
-      * Monthly Income
-      * Age
-      * Total Working Years
-      * Hourly Rate
-      * Monthly Rate
-      * Distance from Home
-      * OverTime
+* The best predictors of whether someone will stay are in descending order: <br>
+      * Monthly Income <br>
+      * Age<br>
+      * Total Working Years<br>
+      * Hourly Rate<br>
+      * Monthly Rate<br>
+      * Distance from Home<br>
+      * OverTime<br>
+      
+* However, we see that some do overlap, so I broke them down into the top 5 predictors below.
+    1. Income
+    2. Age
+    3. Total Working Years
+    4. Proximity to Workplace
+    5. Amount of Over Time given
+      
+      
+Here you can see a graph of the features importance from least to greatest:
+
+<img style="display: inline; margin: 0 5px;" title="Feature Importance" src="https://github.com/michaeljwilt/employeeAttritionML/blob/main/Images/Features%20Graph.png" alt="" width="800" height="500" />
 
 
