@@ -1,7 +1,7 @@
 # Employee Attrition Estimator: Project Overview
 
-Dataset: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
-Inspiration: https://www.youtube.com/watch?v=LUs4L-r51D8
+Dataset: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset <br>
+Inspiration for Project: https://www.youtube.com/watch?v=LUs4L-r51D8
 
 * Created a tool that estimates/predicts employee attrition to help "IBM" find ways to incentivise and maintain proper staffing year-over-year
 * Cleaned and performed Exploratory Data Analysis to determine best variables used in the model building and training.
